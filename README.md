@@ -1,2 +1,2 @@
-# Maths.Trojans.exe
-Maths Trojans
+# Maths.Trojans
+batch skidded no GDI trojan by Hugopako
