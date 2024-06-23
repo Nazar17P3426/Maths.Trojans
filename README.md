@@ -1,2 +1,2 @@
 # Maths.Trojans
-batch skidded no GDI trojan by Hugopako
+batch trojan by Hugopako
